@@ -38,17 +38,13 @@ body {
   text-align: center;
 }
 
-/* ------------------------------
-   Content layout
---------------------------------*/
+
 .content__container {
   display: flex;
   gap: 40px;
 }
 
-/* ------------------------------
-   Input cards
---------------------------------*/
+
 .input__container {
   position: relative;
   width: 140px;
