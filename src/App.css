@@ -1,7 +1,5 @@
 
-/* ------------------------------
-   Global styles
---------------------------------*/
+
 * {
   box-sizing: border-box;
   font-family: "Inter", "Segoe UI", system-ui, sans-serif;
@@ -19,9 +17,7 @@ body {
   justify-content: center;
 }
 
-/* ------------------------------
-   Main container
---------------------------------*/
+
 .container {
   background: rgba(255, 255, 255, 0.12);
   backdrop-filter: blur(18px);
