@@ -10,3 +10,4 @@ function useCounter(initialValue = 0) {
 }
 
 export default useCounter;
+//this is custom hook
