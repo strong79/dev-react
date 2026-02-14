@@ -42,6 +42,5 @@ function App() {
       </div>
       </>
 );}
-//this show the increase and decrease
 
 export default App;
