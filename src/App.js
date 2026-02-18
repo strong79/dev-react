@@ -45,5 +45,5 @@ function App() {
 
 export default App;
 //this shows the main function
-//add some fuction include input
+
 //change the style of the input
