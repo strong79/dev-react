@@ -45,3 +45,4 @@ function App() {
 
 export default App;
 //this shows the main function
+//this shows increase and decrease
